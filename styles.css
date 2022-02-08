@@ -1,0 +1,160 @@
+
+.intro{
+    text-align: center;
+      
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Rancho', cursive;
+    color: azure;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.shuttle{
+    height: 150px;   
+}
+
+.rocket{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    margin-left: 200px;
+}
+
+body{
+    background: linear-gradient(to bottom, #000066 0%, #ff99cc 100%);
+}
+
+.planet{
+    margin: 20px auto 0 600px;
+}
+.star1{
+    height: 30px;
+    width: 30px;
+    margin-left: 300px;
+}
+.star2{
+    height: 30px;
+    width: 30px;
+    margin-left: 1000px;
+}
+.hi{
+    float: left;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+h2{
+    margin-top: 150px;
+    margin-left: 200px;
+    padding-left: 500px;
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.p1{
+    margin: 100px 200px auto 200px;
+    padding: 10px 50px 10px 50px;
+    font-size: 30px;
+    line-height: 2;
+    background-color: rgb(196, 243, 227);
+}
+.p2{
+    margin: 100px 200px auto 200px;
+    padding: 10px 50px 10px 50px;
+    font-size: 30px;
+    line-height: 2;
+    background-color: beige;
+}
+.p3{
+    margin: 100px 200px auto 200px;
+    padding: 10px 50px 10px 50px;
+    font-size: 30px;
+    line-height: 2;
+    background-color: #ebc0d5;
+}
+.p4{
+    margin: 100px 200px auto 200px;
+    padding: 10px 50px 10px 50px;
+    font-size: 30px;
+    line-height: 2;
+    background-color: rgb(190, 207, 218);
+}
+.acad{
+    float: left;
+    margin-left: 500px;
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+}
+.hobbies{
+    float: left;
+    margin-left: 500px;
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;
+}
+.proj{
+    float: left;
+    margin-left: 500px;
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;
+}
+.first-box{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+.insta{
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+    position: relative;
+    margin: 10px;
+}
+.first-box:hover{
+    background-color: maroon;
+    
+}
+.second-box{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+.github{
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+    position: relative;
+    margin: 10px;
+}
+.second-box:hover{
+    background-color: springgreen;
+}
+.third-box{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+.linked{
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+    position: relative;
+    margin: 10px;
+}
+.third-box:hover{
+  background-color: black
+}
+.p5{
+    font-size: 20px;
+}
+h2:hover{
+    color: aquamarine;
+}
+h1:hover{
+    color: darkgrey;
+}
